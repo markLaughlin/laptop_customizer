@@ -34,7 +34,6 @@ class Features extends React.Component{
             <div>
                 <h3>TECH SPECS AND CUSTOMIZATIONS</h3>
 
-                This is the Features component
                 { features }
 
 
